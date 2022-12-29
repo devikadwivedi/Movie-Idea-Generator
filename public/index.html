@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--
+  ***
+  Name: Devika Dwivedi
+  Date: 11/21/2022
+  Section: CSE 154 AC
+  TA: Allison Ho
+  This is a file with a movie idea generator. It has multiple categories of
+  movies including family, action, horror, romance, and comedy.
+  ***
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Movie Night Ideas!</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <img src="popcorn.png" alt="popcorn from Pinterest">
+      <h1>Movie Night Ideas</h1>
+      <img src="popcorn.png" alt="popcorn from Pinterest">
+    </header>
+    <main>
+      <section>
+        <p>
+          Instructions: Enter a category of moviews in the text box below.
+          The options are: family, comedy, action, horror, and romance.
+          Ensure that you are using the proper spelling and spacing. You can
+          also see a list of all movies by clicking "Show All Movies!".
+        </p>
+      </section>
+      <section>
+        <p>
+          <label>Category: <input type='text' value=""> </label>
+        </p>
+        <button>Generate a Movie!</button>
+        <button>Show All Movies!</button>
+      </section>
+      <section id="movie" class="hidden">
+        <h2>Movie:</h2>
+        <p id="name">Name: </p>
+        <p id="rating">Rating: </p>
+        <p id="release-year">Release Year: </p>
+      </section>
+      <section id="all-movies" class="hidden">
+      </section>
+    </main>
+  </body>
+</html>

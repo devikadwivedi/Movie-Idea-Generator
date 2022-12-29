@@ -1,0 +1,63 @@
+/*
+  ***
+  Name: Devika Dwivedi
+  Date: 11/21/2022
+  Section: CSE 154 AC
+  TA: Allison Ho
+  This is the styles.css page for a movie night ideas webpage
+  ***
+*/
+
+main {
+  justify-content: space-evenly;
+}
+
+header {
+  font-size: 28pt;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button:hover, body, header, button, footer {
+  background-color: #000000;
+  color: white;
+}
+
+section {
+  flex-direction: column;
+  background-color: rgb(136, 55, 55);
+  color: white;
+  font-size: 24pt;
+}
+
+main, section, header {
+  align-items: center;
+}
+
+button {
+  height: 75px;
+  font-size: 24px;
+  width: 150px;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+footer {
+  font-size: 18px;
+}
+
+footer, section, header {
+  margin: 20px;
+  padding: 20px;
+}
+
+header > img {
+  width: 175px;
+}
+
+.hidden {
+  display: none;
+}

@@ -1,0 +1,113 @@
+{
+  "action": [
+    {
+      "name":"Bullet Train",
+      "rating": "7.3/10",
+      "year": "2022"
+    },{
+      "name":"Top Gun: Maverick",
+      "rating": "8.4/10",
+      "year": "2022"
+    },{
+      "name":"Black Panther: Wakanda Forever",
+      "rating": "7.3/10",
+      "year": "2022"
+    },{
+      "name":"Spider-Man: Into the Spider-Verse",
+      "rating": "8.4/10",
+      "year": "2022"
+    },{
+      "name":"Dune",
+      "rating": "8.0/10",
+      "year": "2022"
+    }
+  ], "comedy": [
+    {
+      "name":"Minions: The Rise of Gru",
+      "rating": "6.6/10",
+      "year": "2022"
+    },{
+      "name":"Thor: Love and Thunder",
+      "rating": "8.4/10",
+      "year": "2022"
+    },{
+      "name":"Encanto",
+      "rating": "7.2/10",
+      "year": "2021"
+    },{
+      "name":"Knives Out",
+      "rating": "7.9/10",
+      "year": "2019"
+    },{
+      "name":"Dumb and Dumber",
+      "rating": "7.3/10",
+      "year": "1994"
+    }
+  ], "family": [
+    {
+      "name":"Minions: The Rise of Gru",
+      "rating": "6.6/10",
+      "year": "2022"
+    },{
+      "name":"Thor: Love and Thunder",
+      "rating": "8.4/10",
+      "year": "2022"
+    },{
+      "name":"Encanto",
+      "rating": "7.2/10",
+      "year": "2021"
+    },{
+      "name":"Daddy Day Care",
+      "rating": "5.6/10",
+      "year": "2003"
+    },{
+      "name":"The Addams Family",
+      "rating": "5.8/10",
+      "year": "2019"
+    }
+  ], "romance": [
+    {
+      "name":"After: Every Happy",
+      "rating": "4.5/10",
+      "year": "2022"
+    },{
+      "name":"Roman Holiday",
+      "rating": "8.0/10",
+      "year": "1953"
+    },{
+      "name":"Call Me by Your Name",
+      "rating": "7.8/10",
+      "year": "2017"
+    },{
+      "name":"Titanic",
+      "rating": "7.9/10",
+      "year": "1997"
+    },{
+      "name":"Romeo + Juliet",
+      "rating": "6.7/10",
+      "year": "1996"
+    }
+  ], "horror": [
+    {
+      "name":"Jaws",
+      "rating": "8.1/10",
+      "year": "1975"
+    },{
+      "name":"The Shining",
+      "rating": "8.4/10",
+      "year": "1980"
+    },{
+      "name":"Child's Play",
+      "rating": "6.6/10",
+      "year": "1988"
+    },{
+      "name":"The Bee Movie",
+      "rating": "6.1/10",
+      "year": "2007"
+    },{
+      "name":"Get Out",
+      "rating": "7.7/10",
+      "year": "2017"
+    }
+  ]
+}
